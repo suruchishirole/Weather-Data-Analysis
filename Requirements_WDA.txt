@@ -1,0 +1,5 @@
+IDE: Spyder IDE
+Python Version: Python 3.13 (or newer)
+Matplotlib
+
+Pandas: used for data manipulation and analysis
