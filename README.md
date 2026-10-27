@@ -14,6 +14,6 @@ This project was built to demonstrate a complete data analysis pipeline using fu
 6. Automated Reporting: Generates a formatted Markdown report summarizing the findings and metrics.
 
 **Technologies Used**
-Python 3.x
-Pandas (Data manipulation and analysis)
-Matplotlib (Data visualization)
+<br>Python 3.x
+<br>Pandas (Data manipulation and analysis)
+<br>Matplotlib (Data visualization)
